@@ -1,4 +1,4 @@
-## Bem vindo ao meu Perfil. Me chamo Thales e sou um iniciante em programação!
+## Bem vindo ao meu Perfil. Me chamo Thales.
 
 - 🔭 Infocap - Desenvolvedor de RPA em Python (Jr).
 - 🔭 GoldClub - Desenvolvedor e Suporte em Python (Jr).
