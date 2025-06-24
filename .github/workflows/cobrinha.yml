@@ -1,25 +1,34 @@
-name: Generate Datas
+name: Gerar Animação da Cobrinha
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    # Executa a cada 12 horas (às 00:00 e 12:00 UTC)
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite a execução manual pela aba "Actions" do GitHub
 
 jobs:
   build:
-    name: Jobs to update datas
+    name: Atualizar animação da cobrinha
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
-      - uses: Platane/snk@master
+      # Passo 1: Gera o arquivo SVG da cobrinha
+      - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: thalesvieira
+          # O nome de usuário do GitHub para gerar o gráfico
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de saídas desejadas
+          # ex: 'dist/github-contribution-grid-snake.svg'
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      # Passo 2: Publica o diretório 'dist' em uma branch chamada 'output'
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
+          # A branch para onde o arquivo será enviado
           target_branch: output
+          # O diretório que contém os arquivos a serem publicados
           build_dir: dist
         env:
+          # O token é necessário para permitir que a action escreva no seu repositório
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
