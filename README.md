@@ -1,10 +1,11 @@
 ## Bem vindo ao meu Perfil. Me chamo Thales.
 
-- 🔭 Infocap - Desenvolvedor de RPA em Python (Jr).
-- 🔭 GoldClub - Desenvolvedor e Suporte em Python (Jr).
-- 🌱 Estudando Python, MySQL, RPA, HTML, CSS, Javascript.
+- 🔭 HappySaúde - Desenvolvedor PHP.
+- 🔭 Agger - Desenvolvedor RPA em Python.
+- 🔭 GoldClub - Analista de Integrações.
+- 🔭 SKA Automação de Engenharias - Analista de sistemas C#.
+- 🌱 Linguagens - Python , C#, HTML, MySQL, SQL Server.
 - 📧 Contate-me pelo e-mail: thales.dartech@gmail.com
-- 🎣🚴 Meus Hobbies são Pescar e Pedalar
 
 <div align="center">
   <a href="https://github.com/thalesvieira">
