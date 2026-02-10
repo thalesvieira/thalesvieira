@@ -1,7 +1,7 @@
 # Olá, eu sou o Thales! 👋
-### Analista de Dados | Especialista em Power BI & Automação com Python
+#### *Analista de Dados | Especialista em Power BI & Automação com Python*
 
-Atuo na área de tecnologia há cerca de 6 anos, construindo uma carreira que evoluiu do desenvolvimento de sistemas para a inteligência de dados. Comecei desenvolvendo back-end e integrações, especializei-me em automação de processos (RPA) com Python e naturalmente transicionei para a Análise de Dados.
+### Atuo na área de tecnologia há cerca de 6 anos, construindo uma carreira que evoluiu do desenvolvimento de sistemas para a inteligência de dados. Comecei desenvolvendo back-end e integrações, especializei-me em automação de processos (RPA) com Python e naturalmente transicionei para a Análise de Dados.
 ---
 
 ### 🚀 Experiência Profissional
