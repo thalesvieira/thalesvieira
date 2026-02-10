@@ -1,15 +1,14 @@
 # Olá, eu sou o Thales! 👋
 ### Analista de Dados | Especialista em Power BI & Automação com Python
 
-Com um background sólido em desenvolvimento de software (C#, PHP) e automação de processos (RPA), hoje atuo transformando dados complexos em decisões estratégicas. Minha experiência prévia como desenvolvedor me permite criar soluções de dados não apenas visualmente impactantes, mas tecnicamente robustas e automatizadas.
-
+Atuo na área de tecnologia há cerca de 6 anos, construindo uma carreira que evoluiu do desenvolvimento de sistemas para a inteligência de dados. Comecei desenvolvendo back-end e integrações, especializei-me em automação de processos (RPA) com Python e naturalmente transicionei para a Análise de Dados.
 ---
 
 ### 🚀 Experiência Profissional
 
 #### **Analista de Dados** (Atual)
 > *Foco em Business Intelligence e Engenharia de Dados*
-- Desenvolvimento e manutenção de dashboards interativos no **Power BI**, com foco em storytelling e UX (temas Dark/Light).
+- Desenvolvimento e manutenção de dashboards interativos no **Power BI**, com foco em storytelling.
 - Criação de medidas complexas em **DAX** para análises financeiras e operacionais.
 - Utilização de **Python (Pandas, Pyarrow)** para ETL, limpeza e manipulação de grandes volumes de dados.
 - Automação de extração de dados e relatórios para otimizar o fluxo de informações.
@@ -25,7 +24,7 @@ Com um background sólido em desenvolvimento de software (C#, PHP) e automação
 - Análise de requisitos e suporte técnico avançado para soluções de engenharia.
 
 #### **Experiências Anteriores**
-- **Analista de Integrações** | GoldClub
+- **Desenvolvedor Python Jr** | GoldClub
 - **Desenvolvedor PHP** | HappySaúde
 
 ---
