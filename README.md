@@ -27,13 +27,6 @@ Atualmente focado em análise de dados e automação, transformando informaçõe
 
 ---
 
-### 🐍 Snake Game (Contribuições)
-<div align="center">
-  <img src="https://github.com/thalesvieira/thalesvieira/blob/output/github-contribution-grid-snake.svg" alt="snake game">
-</div>
-
----
-
 ### 🔗 Conecte-se comigo
 <div align="center">
   <a href="https://www.linkedin.com/in/thales-von-arnt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
