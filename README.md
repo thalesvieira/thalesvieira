@@ -13,11 +13,6 @@ Atualmente focado em análise de dados e automação, transformando informaçõe
 ### 📊 Estatísticas e Tecnologias
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalesvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalesvieira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div align="center">
   <img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Power BI" height="40" width="50" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
   <img alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
